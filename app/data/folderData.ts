@@ -2,6 +2,7 @@ const explorer = {
   id:"1",
   name: "root",
   isFolder: true,
+  isRoot:true,
   items: [
     {
       id:"2",
